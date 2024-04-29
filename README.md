@@ -15,6 +15,9 @@ Fronto is an AI-powered website builder that allows users to create professional
 To install Fronto, run the following commands:
 
 pip install -r requirements.txt
+
+then
+
 streamlit run Web.py
 
 
