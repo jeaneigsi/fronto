@@ -1,4 +1,5 @@
 # Fronto 🧑‍💻
+
 Fronto is an AI-powered website builder that allows users to create professional websites quickly and easily. With innovative features like "ScreenShot to code" and "Image Link to code," Fronto simplifies the website development process, making it accessible to individuals and businesses of all skill levels.
 
 ## Features
@@ -9,14 +10,16 @@ Fronto is an AI-powered website builder that allows users to create professional
   - **Image Link to Code:** Link an image of your design inspiration, and Fronto will translate it into functional code.
   - **One-Minute Website:** With Fronto, you can build your website in just one minute, saving you time and effort.
 
+# Installation
 
-# installation
-pip install -r requirements.txt 
+To install Fronto, run the following commands:
 
-then run this 
-
+pip install -r requirements.txt
 streamlit run Web.py
 
-# try it out
 
-https://fronto-1.onrender.com/
+
+# Try it Out
+
+You can try out Fronto at [this link](https://fronto-1.onrender.com/).
+
