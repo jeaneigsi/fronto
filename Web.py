@@ -6,7 +6,6 @@ import re
 from io import BytesIO
 
 import screenshot_to_code
-import trulens  
 
 
     
